@@ -2,7 +2,7 @@
 
 The Blackjack Repository contains the source code for a set of software applications. The set of software applications consists of an ULTIMA282 software application, an ULTIMA283 software application, an ULTIMA293 software application, and a BJ282software application.
 
-This repository contains a set of text files. A set of software applications saved the set of text files. The set of software applications consists of the ULTIMA282 software application, the ULTIMA283 software application, and the ULTIMA293 software application. The following is a description of the data contained in the set of text files.
+This repository contains a set of text files. A set of software applications saved the set of text files. The set of software applications consists of the ULTIMA282 software application, the ULTIMA283 software application, and the ULTIMA293 software application. 
 
 The set of text files contain data. The data provides the results of math analyses. The math analyses were math analyses of card games. The card games belong to the Blackjack family. Each of the card games is subject to a predetermined set of game rules. In each case, the predetermined set of game rules included the particular subset of game rules. 
 
