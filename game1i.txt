@@ -23,7 +23,7 @@ press 'y' and enter for a standard deck composition y
 press 'y' and enter for a standard deck composition y
 input the number of decks used  6 
 what is the percentage of the shoe remaining at point of reshuffle.(15-100)  25 
-input dealer soft finish  17 
+input dealer soft finish  17  
 press 1 and enter for dealer wins ties  0 
 press 1 and enter for a double bust contest where in if the player
 finishes closer to twenty-one than the dealer, the player pushes
