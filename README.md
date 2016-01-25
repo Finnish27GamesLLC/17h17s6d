@@ -6,7 +6,7 @@ This repository contains a set of text files. A set of software applications sav
 
 The set of text files contain data. The data provides the results of math analyses. The math analyses were math analyses of card games. The card games belong to the Blackjack family. Each of the card games is subject to a predetermined set of game rules. In each case, the predetermined set of game rules included a particular subset of game rules. 
 
-The particular subset of game rules does the following. Specifies the step of requiring the dealer to play the dealer's hand in accordance with a predetermined strategy. The predetermineed strategy specifies a target-numerical sum of seventeen for the play of the dealer's hard hands, and a target-numerical sum of seventeen for the play of the dealer's soft hands. Specifies the step of providing six decks of cards. For that reason, the repository is named 17h17s6d.
+The particular subset of game rules does the following. Specifies the step of requiring the dealer to play the dealer's hand in accordance with a predetermined strategy. The predetermined strategy specifies a target-numerical sum of seventeen for the play of the dealer's hard hands, and a target-numerical sum of seventeen for the play of the dealer's soft hands. Specifies the step of providing six decks of cards. For that reason, the repository is named 17h17s6d.
 
 The ULTIMA282 software application enables the user to program their computer to conduct abbreviated-combinatorial analyses of card games belonging to the Blackjack family of table-card games.
 
