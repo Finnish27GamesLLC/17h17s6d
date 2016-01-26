@@ -1,0 +1,26 @@
+ULTIMA293.BAS prompts the user to enter the folder/filename prefix to be used
+to save application output. ULTIMA293.BAS prompts the user to enter the
+folder/filename prefix of the set of files to be loaded into program memory.
+The set of files contains data. The data consists of data about a user-defined
+set of game rules for a card game belonging to the Blackjack family of
+table-card games; and data about a set of tables assembled for the card game.
+The set of tables consists of a set of combination-dependent-playing-strategy
+tables and a combination-dependent-expected-value table. ULTIMA282.BAS and
+BJ282.BAS are both capable of both generating the data and saving the set of
+files. ULTIMA293.BAS uses the data to assemble a total-dependent-basic-strategy
+table for the card game. ULTIMA293.BAS saves a set of files. The set of files
+contains data. The data consists of data about the user-defined set of game
+rules; and data about the assembled total-dependent-basic-strategy table.
+ 
+enter the folder/filename prefix of the files to be used
+to store application output
+17h17s6d/game1TDA
+ 
+enter the folder/filename prefix of the set of files
+to be loaded into program memory
+17h17s6d/game1
+the data loaded is described as follows: 17h17s6d/game1                                                                  
+if this is acceptable type 'y'and press enter y
+press 1 and enter to manually input the hard score and soft score
+the player stands at while playing against each dealer up card  0 
+ 
