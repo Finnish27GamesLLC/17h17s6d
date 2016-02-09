@@ -1,0 +1,62 @@
+ULTIMA282.BAS asks the user to enter the folder/filename prefix of the
+files to be used to store application output. ULTIMA282.BAS prompts the
+user to define the rules of a card game belonging to the Blackjack family
+of table-card games. ULTIMA282.BAS conducts a math analysis of the card game
+by means of the abbreviated-combinatorial-analysis method. ULTIMA282.BAS
+assembles the results of the math analysis into a set of tables. The set of
+tables consists of a set of combination-dependent-playing-strategy tables,
+and a combination-dependent-expected-value table. ULTIMA282.BAS calculates
+an estimate of the expected value of the game and adds it to the bottom of
+the combination-dependent-expected value table. ULTIMA282.BAS stores the
+user-defined set of game rules and the set of tables in a set of files.
+ULTIMA283.BAS can load the data contained in these files into program
+memory and use the data to conduct a simulation of the card game wherein;
+the computer-controlled player uses the set of strategy tables to make
+decisions on how to play the player's hand. ULTIMA293.BAS can load the
+data contained in these files into program memory and use the data to
+assemble a total-dependent-basic-strategy table.
+ 
+enter the folder/filename prefix of the files to be used
+to store application output 17h17s6d/game3
+ 
+press 'y' and enter for a standard deck composition y
+input the number of decks used  6 
+what is the percentage of the shoe remaining at point of reshuffle.(15-100)  25 
+input dealer soft finish  17 
+press 1 and enter for dealer wins ties  0 
+press 1 and enter for a double bust contest where in if the player
+finishes closer to twenty-one than the dealer, the player pushes
+press 2 and enter for a double bust contest where in if the player
+finishes closer to twenty-one than the dealer, the player wins  0 
+press 1 and enter for dealer takes no hole card  0 
+press 1 and enter for player hands of 21 push against all dealer bjs  0 
+press 1 and enter for player 21 pushes against dealer 10 up bjs only  0 
+press 1 and enter for automatic six card player hand win  0 
+press 1 and enter for insurance  1 
+press 1 and enter for surrender  0 
+press 1 and enter for split option  1 
+press 1 and enter for double down after split  1 
+what is the maximum number of split hands allowed  4 
+press 1 and enter for resplit of aces is allowed  0 
+press 1 and enter to draw to split aces  0 
+press 1 and enter to restrict use of double down to specific hand totals  0 
+input 2 for blackjack pays 2:1 or 1.5 for pays 3:2 or 1 for pays 1:1  1.5 
+press 1 and enter for blackjack pays off on split hands  0 
+press 1 and enter for all player hands of 21 pay off immediately  0 
+press 1 and enter for player blackjack beats dealer blackjack  0 
+press 1 and enter for bonus 21 payoffs  0 
+press 1 and enter for double on more than two cards  0 
+
+press 1 and enter to save to a text file tables listing 
+player finish probabilities calculated during the operation
+of the program in the process of finding the best of twenty nine
+hitting strategies (ranging from stand at 12/A6 to stand at 19/A9)
+for each of five hundred and fifty unique combinations
+of initial two card player hand and dealer face up card.  0 
+type and enter a brief description of rules 
+17h17s6d/game3
+
+
+START: 02-07-2016 09:22:03
+
+END:   02-07-2016 09:22:09
