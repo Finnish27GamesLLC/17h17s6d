@@ -54,6 +54,6 @@ type and enter a brief description of rules
 17h17s6d/game2
 
 
-START: 01-23-2016 22:16:35
+START: 02-08-2016 00:20:56
 
-END:   01-25-2016 01:06:11
+END:   02-08-2016 14:26:47
