@@ -61,7 +61,7 @@ JJ  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand
 win minus loss margins for two card combos verses dealer up cards 
       1      2      3      4      5      6      7      8      9     10      
      7.69   7.69   7.69   7.69   7.69   7.69   7.69   7.69   7.69  30.77     %
-AA -13.94  61.03  65.86  70.92  76.14  81.47  62.77  49.92  36.26  20.58  0.57
+AA -13.94  61.03  65.86  70.92  76.14  81.47  62.76  49.91  36.23  20.56  0.57
 A2 -35.51   4.14   6.96   9.98  13.99  18.79  11.50   4.64  -4.26 -17.63  1.19
 A3 -37.83   1.95   4.78   7.98  13.84  18.64   7.39   1.38  -7.77 -20.55  1.19
 A4 -40.38  -0.26   2.75   6.24  13.37  18.29   3.56  -2.92 -11.49 -23.68  1.19
@@ -106,14 +106,14 @@ AJ 103.88 150.00 150.00 150.00 150.00 150.00 150.00 150.00 150.00 138.83  4.75
 68 -61.55 -28.90 -24.73 -20.69 -16.18 -15.61 -32.55 -37.15 -43.18 -50.76  1.19
 69 -64.33 -28.97 -25.12 -20.77 -16.25 -15.67 -36.87 -41.74 -47.28 -53.88  1.19
 6J -65.37 -29.36 -25.20 -20.84 -16.31 -15.75 -40.86 -45.31 -50.00 -53.88  4.75
-77 -62.00 -12.05  -2.93   7.08  16.04  24.90  -4.83 -37.77 -43.79 -51.49  0.57
+77 -62.00 -12.05  -2.94   7.08  16.05  24.90  -4.83 -37.77 -43.79 -51.49  0.57
 78 -63.89 -28.96 -24.77 -20.76 -16.57 -15.69 -36.25 -41.09 -46.70 -53.86  1.19
 79 -65.53 -29.02 -25.17 -20.84 -16.64 -15.75 -40.84 -45.36 -50.00 -53.88  1.19
 7J -63.73 -15.38 -11.75  -7.80  -4.46   0.83 -10.89 -38.42 -42.22 -46.36  4.75
 88 -56.22   8.13  15.39  22.39  30.43  40.61  31.90  -2.87 -38.88 -51.55  0.57
 89 -63.73 -15.04 -11.74  -8.11  -4.48   0.83 -10.97 -38.75 -42.13 -46.05  1.19
 8J -37.48  12.12  14.79  17.41  20.01  28.10  39.77  10.41 -18.52 -23.87  4.75
-99 -37.48  19.76  25.32  32.11  39.45  46.45  39.96  23.01  -8.12 -23.55  0.57
+99 -37.48  19.76  25.33  32.12  39.45  46.45  39.96  23.01  -8.12 -23.55  0.57
 9J -11.18  38.62  40.12  42.00  44.08  49.41  61.50  59.11  28.39  -1.36  4.75
 JJ  15.12  63.79  64.80  65.85  67.09  70.28  77.20  79.04  75.61  43.80  9.40
  
@@ -130,11 +130,11 @@ AA  Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand*
 5A  17/A7  13/A7  13/A7  DDown  DDown  DDown  17/A7  17/A7  17/A8  16/A8   
 6A  17/A8  13/A7  DDown  DDown  DDown  DDown  17/A7  17/A7  17/A8  17/A8   
 7A  17/A8  DDown* DDown  DDown  DDown  DDown  Stand  Stand  17/A8  16/A8   
-8A  Stand* Stand* Stand* Stand  Stand  Stand  Stand* Stand  Stand  Stand   
-9A  Stand* Stand* Stand  Stand  Stand  Stand  Stand* Stand  Stand  Stand   
+8A  Stand* Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand   
+9A  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand   
 JA  Stand* Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand   
-22  17/A7  13/A7* 13/A7* 12/A7* 12/A7* 12/A6* 17/A7* 17/A7  17/A7  17/A7*  
-32  17/A7  13/A7  13/A7  12/A7  12/A7  12/A7  17/A6  17/A7  17/A7  16/A7   
+22  17/A7  13/A7* 13/A7* 12/A7* 12/A7* 12/A6* 17/A6* 17/A7  17/A7  16/A7   
+32  17/A7  13/A7  13/A7  12/A7  12/A7  12/A6* 17/A6  17/A7  17/A7  16/A7   
 42  17/A7  13/A7  13/A7  12/A7  12/A7  12/A7  17/A7  17/A7  17/A7  16/A7   
 52  17/A8  13     13     12     12     12     17     17     17/A8  16/A8   
 62  17     13     13     12     12     12     17     17     17     17      
@@ -142,7 +142,7 @@ JA  Stand* Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand
 82  17     DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown  17      
 92  17     DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown   
 J2  17     13     13     13     Stand  Stand  17     17     17     17      
-33  17/A7  13/A7* 13/A7* 12/A7* 12/A7* 12/A7* 17/A7* 17/A7  17/A7  17/A7*  
+33  17/A7  13/A7* 13/A7* 12/A7* 12/A7* 12/A7* 17/A7* 17/A7  17/A7  16/A7   
 43  17/A8  13     13     12     12     12     17     17     17/A8  16/A8   
 53  17     13     13     12     12     12     17     17     17     16      
 63  17     13     DDown  DDown  DDown  DDown  17     17     17     17      
@@ -189,12 +189,12 @@ A3  Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand*
 A4  Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand*  
 A5  Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand*  
 A6  Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand*  
-A7  Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand* Stand*  
-A8  Stand* Stand* Stand* Stand* Stand* Stand  Stand  Stand* Stand* Stand*  
-A9  Stand* Stand* Stand* Stand* Stand* Stand  Stand  Stand  Stand* Stand*  
-AJ  Stand* Stand* Stand* Stand  Stand* Stand  Stand  Stand  Stand  Stand*  
-22  17/A7  13/A7* 13/A7* 12/A7* 12/A7* 12/A6* 17/A7* 17/A7  17/A7  17/A7*  
-23  17/A7  13/A7  13/A7  12/A7  12/A7  12/A7  17/A6  17/A7  17/A7  16/A7   
+A7  Stand* Stand  Stand* Stand* Stand* Stand* Stand  Stand  Stand* Stand*  
+A8  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand*  
+A9  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand*  
+AJ  Stand* Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand  Stand*  
+22  17/A7  13/A7* 13/A7* 12/A7* 12/A7* 12/A6* 17/A6* 17/A7  17/A7  16/A7   
+23  17/A7  13/A7  13/A7  12/A7  12/A7  12/A6* 17/A6  17/A7  17/A7  16/A7   
 24  17/A7  13/A7  13/A7  12/A7  12/A7  12/A7  17/A7  17/A7  17/A7  16/A7   
 25  17/A8  13     13     12     12     12     17     17     17/A8  16/A8   
 26  17     13     13     12     12     12     17     17     17     17      
@@ -202,7 +202,7 @@ AJ  Stand* Stand* Stand* Stand  Stand* Stand  Stand  Stand  Stand  Stand*
 28  17     DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown  17      
 29  17     DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown  DDown   
 2J  17     13     13     13     Stand  Stand  17     17     17     16   *  
-33  17/A7  13/A7* 13/A7* 12/A7* 12/A7* 12/A7* 17/A7* 17/A7  17/A7  17/A7*  
+33  17/A7  13/A7* 13/A7* 12/A7* 12/A7* 12/A7* 17/A7* 17/A7  17/A7  16/A7   
 34  17   * 13     13     12     12     12     17     17     17/A8  16/A8   
 35  17     13     13     12     12     12     17     17     17     16      
 36  17     13     DDown  DDown  DDown  DDown  17     17     17     16   *  
