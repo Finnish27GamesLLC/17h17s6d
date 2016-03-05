@@ -25,7 +25,7 @@ to store application output
  
 press 'y' and enter for a standard deck composition y
 input the number of decks used  6 
-what is the percentage of the shoe remaining at point of reshuffle.(15-100)  25 
+what is the percentage of the shoe remaining at point of reshuffle.(15-100)  99 
 input dealer soft finish  17 
 press 1 and enter for dealer takes no hole card  0 
 press 1 and enter for player hands of 21 push against all dealer bjs  0 
@@ -53,6 +53,6 @@ type and enter a brief description of rules
 17h17s6d/game4
 
 
-START: 02-07-2016 09:25:31
+START: 03-03-2016 15:54:52
 
-END:   02-07-2016 22:48:12
+END:   03-04-2016 06:12:42
