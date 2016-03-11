@@ -49,7 +49,7 @@ Key: S = Stand, H = Hit
 Breakdown 
  
 Stand        45.361 % of the time.
-Hit          37.906 % of the time.
+Hit          37.538 % of the time.
 Double Down   9.644 % of the time.
 Split         2.529 % of the time.
-Surrender     4.561 % of the time.
+Surrender     4.929 % of the time.
