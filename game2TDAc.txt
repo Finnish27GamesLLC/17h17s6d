@@ -39,7 +39,7 @@ TT   S  S  S  S  S  S  S  S  S  S   TT
  
      2  3  4  5  6  7  8  9  T  A   
  
-                                                                                
+17h17s6d/game2                                                                  
  
 Key: S = Stand, H = Hit
      D = Double, Ds = Double else Stand, Dh = Double else Hit
@@ -48,8 +48,8 @@ Key: S = Stand, H = Hit
  
 Breakdown 
  
-Stand        44.993 % of the time.
-Hit          38.273 % of the time.
+Stand        45.449 % of the time.
+Hit          37.450 % of the time.
 Double Down   9.644 % of the time.
 Split         2.529 % of the time.
-Surrender     4.561 % of the time.
+Surrender     4.929 % of the time.
